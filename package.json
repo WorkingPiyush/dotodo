@@ -1,0 +1,16 @@
+{
+  "name": "cli-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "piyush",
+  "license": "ISC",
+  "description": ""
+}
